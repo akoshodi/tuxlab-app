@@ -14,7 +14,7 @@
   import { OVERLAY_PROVIDERS } from '@angular2-material/core/overlay/overlay';
 
 // Roles
-  import { Roles } from '../../../../../collections/users.ts';
+  import { Roles } from '../../../../../collections/users';
 
   declare var Collections: any;
 
